@@ -29,8 +29,8 @@ def answer_process(p, c, q):
 
 @dp.message_handler(content_types=['web_app_data'])
 async def analyze_person(message: types.Message):
-    category = message.text['category']
-    person = message.text['person']
+    category = message['category']
+    person = message['person']
     await message.answer(f"I am {person} who specializes in {category}. "
                          f"It seems you want a conversation with me, "
                          f"is there anything that I can help? :0")
