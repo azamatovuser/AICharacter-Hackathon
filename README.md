@@ -1,5 +1,6 @@
 # AICharacter-Hackathon
-Hey everyone!
+**description**
+
 It is a helper bot that can help you in Psycology, Homework, Health, Programming and Famous people categories. That is not just a simple bot but It gives you a chance to talk with popular people such as:
 - Albert Einstein
 - Andrew Tate
