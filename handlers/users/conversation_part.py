@@ -32,7 +32,7 @@ async def analyze_person(message: types.Message):
     rs = json.loads(message.web_app_data.data)
     person = rs["title"]
     person_check[0] = person
-    await message.answer(f"I am {person}"
+    await message.answer(f"I am {person}. "
                          f"It seems you want a conversation with me, "
                          f"is there anything that I can help? :0")
 
