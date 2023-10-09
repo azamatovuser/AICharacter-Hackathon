@@ -13,7 +13,8 @@ It is a helper bot that can help you in Psycology, Homework, Health, Programming
 This is not the end of list. You can get advice/help from these people. The bot gives you a opportunity to talk with them in any time
 
 **documentation**
+
 In order to use this project, the following steps need to be done:
-1 - clone the project
-2 - pip install -r requirements.txt
-3 - add .env file and fill it with given example (env_example)
+- clone the project
+- pip install -r requirements.txt
+- add .env file and fill it with given example (env_example)
