@@ -19,3 +19,7 @@ In order to use this project, the following steps need to be done:
 - clone the project
 - pip install -r requirements.txt
 - add .env file and fill it with given example (env_example)
+
+**Web app**
+
+The source: https://github.com/Bakha022/Webapp
