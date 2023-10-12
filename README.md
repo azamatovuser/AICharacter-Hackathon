@@ -1,5 +1,4 @@
-# AICharacter-Hackathon
-**description**
+**Description**
 
 It is a helper bot that can help you in Psycology, Homework, Health, Programming and Famous people categories. That is not just a simple bot but It gives you a chance to talk with popular people such as:
 - Albert Einstein
@@ -13,7 +12,7 @@ It is a helper bot that can help you in Psycology, Homework, Health, Programming
 
 This is not the end of list. You can get advice/help from these people. The bot gives you a opportunity to talk with them in any time
 
-**documentation**
+**Documentation**
 
 In order to use this project, the following steps need to be done:
 - clone the project
